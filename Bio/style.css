@@ -1,0 +1,14 @@
+img {
+    border-color: black;
+    border-style: solid;
+    border-width: 15px;
+}
+p {
+    font-size: 20px;
+    color: black
+}
+
+body {
+    background:lightblue;
+}
+
